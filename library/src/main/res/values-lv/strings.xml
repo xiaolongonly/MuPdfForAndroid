@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="cancel">Atcelt</string>
+    <string name="search_backwards">Meklēt iepriekšejo</string>
+    <string name="search_forwards">Meklēt nākamo</string>
+    <string name="search_document">Meklēt dokumentā</string>
+    <string name="enter_password">Ievadiet paroli</string>
+    <string name="text_not_found">Teksts nav atrasts</string>
+    <string name="searching_">Meklējam&#8230;</string>
+    <string name="no_further_occurrences_found">Nav atrasti citi notikumi</string>
+    <string name="search">Meklēt</string>
+    <string name="print">Drukāt</string>
+    <string name="dismiss">Atcelt</string>
+    <string name="yes">Jā</string>
+    <string name="no">Nē</string>
+    <string name="print_failed">Drukāšana neveiksmīga</string>
+    <string name="document_has_changes_save_them_">Dokumentā ir izmaiņas. Saglabāt tās?</string>
+    <string name="cannot_open_document">Neizdevās atvērt dokumentu</string>
+    <string name="cannot_open_document_Reason">Neizdevās atvērt dokumentu: %1$s</string>
+    <string name="cannot_open_file_Path">Neizdevās atvērt failu: %1$s</string>
+    <string name="cannot_open_buffer">Neizdevās atvērt buferi</string>
+    <string name="fill_out_text_field">Aizpildīt teksta lauku</string>
+    <string name="okay">Labi</string>
+    <string name="choose_value">Izvēlēties vērtību</string>
+    <string name="not_supported">Netiek atbalstīts</string>
+    <string name="more">Vairāk</string>
+    <string name="format_currently_not_supported">Šīs formāts patreiz netiek atbalstīts</string>
+	
+	<string name="one_page_of_count">%1$d no %2$d</string>
+	<string name="two_pages_of_count">%1$d-%2$d no %3$d</string>
+	
+</resources>

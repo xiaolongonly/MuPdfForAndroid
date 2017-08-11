@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    
+	<GridView 
+	    android:id="@+id/preview_grid"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:paddingTop="48dip"
+	    android:paddingRight="0dp"
+	    android:paddingBottom="0dp"
+	    android:paddingLeft="0dp"
+	    android:clipToPadding="false"
+	    android:columnWidth="150dip"
+	    android:verticalSpacing="4dip" 
+	    android:numColumns="auto_fit" />
+	
+	<RelativeLayout
+	    android:id="@+id/topBarMain"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:background="@color/actionbar_background_semitransp">
+	
+	    <ImageButton
+	        android:id="@+id/cancelMoreButton"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_centerVertical="true"
+	        android:layout_alignParentLeft="true"
+	        android:padding="12dip"
+	        android:contentDescription="@string/cancel"
+	        android:background="@drawable/button"
+	        android:onClick="OnCancelPreviewButtonClick"
+	        android:src="@drawable/ic_back_api" />
+
+	</RelativeLayout>
+	
+</RelativeLayout>
