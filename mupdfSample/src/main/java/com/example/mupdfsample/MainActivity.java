@@ -74,7 +74,7 @@ public class MainActivity extends Activity implements OnClickListener {
 			intent.putExtra("linkhighlight", true);
 
 			//if you don't need device sleep on reading document
-			intent.putExtra("idleenabled", false); 
+			intent.putExtra("idleenabled", false);
 			
 			//set true value for horizontal page scrolling, false value for vertical page scrolling
 			intent.putExtra("horizontalscrolling", true);
