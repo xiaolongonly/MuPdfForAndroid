@@ -41,12 +41,3 @@
 由于界面是已经写死的，可以参照功能实现去修改界面。祝你好运~~ 
 
 
-
-# License
-
-```
-Copyright 2017 Xiaolong 
-
-MupdfForAndroid is free software: you can redistribute it and/or modify.
-
-```
